@@ -1,0 +1,5 @@
+# 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap:  https://mp3juics.com/sitemap.xml
